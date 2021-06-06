@@ -38,9 +38,9 @@ Highlighted topics, which we post are.
   
 # Issues / Suggestion
   Please open an issue ticket, if you like to
-  1. Raise an issues
-  2. Give suggestion / feedback
-  3. Request a feature
+  1. [Raise an issues](https://github.com/teamshark1/techShark/issues)
+  2. [Give suggestion / feedback](https://github.com/teamshark1/techShark/issues)
+  3. [Request a feature](https://github.com/teamshark1/techShark/issues)
   
  # Contact
   We consider our Github page, as a primary source of communication with the user. Anyhow, if you want to reach us, mail us [here](mailto:techsharkteam@gmail.com?subject=[GitHub]%20techShark%20Reach%20Out)
