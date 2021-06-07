@@ -13,6 +13,8 @@
 
 <p align="center"><img src="https://i.ibb.co/wzdhQY5/tech-Shark.png"" alt="header image" width="600px"></p>
   
+Live website [techsharkone](https://techsharkone.web.app/)
+  
 # About
 At techShark, we are focussed to deliver important news update, related to the world of technology.
 Highlighted topics, which we post are.
